@@ -1,0 +1,9 @@
+node calculator_sync.js 4 7 adicionar
+node calculator_sync.js 4 7 subtrair
+node calculator_sync.js 4 7 multiplicar
+node calculator_sync.js 4 7 dividir
+
+node calculator_async.js 4 7 adicionar
+node calculator_async.js 4 7 subtrair
+node calculator_async.js 4 7 multiplicar
+node calculator_async.js 4 7 dividir

@@ -1,0 +1,24 @@
+{
+  "name": "desafio-soap",
+  "version": "1.0.0",
+  "description": "Desafio SOAP",
+  "homepage": "https://github.com/kjunda01/desafio-soap#readme",
+  "bugs": {
+    "url": "https://github.com/kjunda01/desafio-soap/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjunda01/desafio-soap.git"
+  },
+  "license": "ISC",
+  "author": "Sinval Junior",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "soap": "^1.1.12"
+  }
+}
